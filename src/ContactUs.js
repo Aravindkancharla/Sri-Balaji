@@ -130,19 +130,19 @@ const ContactUs = () => {
               <div className="social-section">
                 <h3 className="social-title">Follow Us</h3>
                 <div className="social-icons">
-                  <a href="#" className="social-icon facebook">
+                  <a href="#" className="social-icon facebook" rel="noopener noreferrer">
                     <span>f</span>
                   </a>
-                  <a href="#" className="social-icon instagram">
+                  <a href="#" className="social-icon instagram" rel="noopener noreferrer">
                     <span>📷</span>
                   </a>
-                  <a href="#" className="social-icon linkedin">
+                  <a href="#" className="social-icon linkedin" rel="noopener noreferrer">
                     <span>in</span>
                   </a>
-                  <a href="#" className="social-icon twitter">
+                  <a href="#" className="social-icon twitter" rel="noopener noreferrer">
                     <span>✕</span>
                   </a>
-                  <a href="#" className="social-icon youtube">
+                  <a href="#" className="social-icon youtube" rel="noopener noreferrer">
                     <span>▶</span>
                   </a>
                 </div>
